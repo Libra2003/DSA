@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\pak\Desktop\DSA(Online)\Stack(Using Link List)\Stack(Using Link List)\Source.cpp(48): warning C4715: 'push': not all control paths return a value
+C:\Users\pak\Desktop\DSA(Online)\Stack(Using Link List)\Stack(Using Link List)\Source.cpp(59): warning C4715: 'pop': not all control paths return a value
+C:\Users\pak\Desktop\DSA(Online)\Stack(Using Link List)\Stack(Using Link List)\Source.cpp(70): warning C4715: 'peek': not all control paths return a value
+C:\Users\pak\Desktop\DSA(Online)\Stack(Using Link List)\Stack(Using Link List)\Source.cpp(84): warning C4715: 'stackBottom': not all control paths return a value
+  Stack(Using Link List).vcxproj -> C:\Users\pak\Desktop\DSA(Online)\Stack(Using Link List)\x64\Debug\Stack(Using Link List).exe

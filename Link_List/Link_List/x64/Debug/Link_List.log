@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\pak\Desktop\DSA(Online)\Link_List\Link_List\Source.cpp(261): warning C4715: 'delete_By_Index': not all control paths return a value
+C:\Users\pak\Desktop\DSA(Online)\Link_List\Link_List\Source.cpp(175): warning C4715: 'delete_From_Start': not all control paths return a value
+  Link_List.vcxproj -> C:\Users\pak\Desktop\DSA(Online)\Link_List\x64\Debug\Link_List.exe

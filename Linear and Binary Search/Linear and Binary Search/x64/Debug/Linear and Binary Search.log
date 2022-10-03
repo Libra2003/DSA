@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\pak\Desktop\DSA(Online)\Linear and Binary Search\Linear and Binary Search\Source.cpp(49,28): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\pak\Desktop\DSA(Online)\Linear and Binary Search\Linear and Binary Search\Source.cpp(49,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\pak\Desktop\DSA(Online)\Linear and Binary Search\Linear and Binary Search\Source.cpp(50,27): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\pak\Desktop\DSA(Online)\Linear and Binary Search\Linear and Binary Search\Source.cpp(50,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Linear and Binary Search.vcxproj -> C:\Users\pak\Desktop\DSA(Online)\Linear and Binary Search\x64\Debug\Linear and Binary Search.exe

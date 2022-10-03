@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\pak\Desktop\DSA(Online)\Doubly Link list\Doubly Link list\Source.cpp(176): warning C4715: 'delete_From_Start': not all control paths return a value
+C:\Users\pak\Desktop\DSA(Online)\Doubly Link list\Doubly Link list\Source.cpp(262): warning C4715: 'delete_By_Index': not all control paths return a value
+  Doubly Link list.vcxproj -> C:\Users\pak\Desktop\DSA(Online)\Doubly Link list\x64\Debug\Doubly Link list.exe
