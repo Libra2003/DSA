@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 #define Max 10
-int arr[Max] = { 7,9,18,19,22,1,6,9,11,3 };
+int arr[Max] = { 7,9,18,19,22,1,6,9,3,5 };
 
 void merge(int mid, int low,int high) {
 	int i = low;
@@ -11,7 +11,7 @@ void merge(int mid, int low,int high) {
 
 	while (i<=mid&&j<=high)
 	{
-		if (arr[i] < arr[j]) {
+		if (arr[i] <= arr[j]) {
 			A[k] = arr[i];
 			i++;
 			k++;
@@ -35,7 +35,7 @@ void merge(int mid, int low,int high) {
 		j++;
 	}
 
-	for (int i = low;i <= high;i++) {
+	for (int i = low;i <=high;i++) {
 		arr[i] = A[i];
 	}
 	
@@ -50,9 +50,10 @@ void merge_Sort(int low, int high) {
 		merge(mid, low, high);
 	}
 }
+
 void display() {
 	cout << endl;
-	for (int i = 0; i < Max; i++)
+	for (int i = 1; i <= Max; i++)
 	{
 		cout << arr[i] << " ";
 	}

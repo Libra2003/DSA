@@ -38,6 +38,7 @@ void quick_Sort( int low, int high) {
 		partition_Index = partition(low, high);
 		quick_Sort(low, partition_Index - 1);// sort left subarray 
 		quick_Sort(partition_Index + 1, high);// sort right subarray
+
 	}
 }
 void dispaly() {

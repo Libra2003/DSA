@@ -215,7 +215,7 @@ Node* delete_By_Value() {
 		{
 			if (temp->data == newNode->data) {
 				if (Prev == NULL) {
-					temp = NULL;
+					current = current->next;
 					break;
 				}
 				else {

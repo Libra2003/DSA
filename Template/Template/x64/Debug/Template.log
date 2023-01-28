@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\pak\Desktop\DSA(Online)\Template\Template\Source.cpp(24,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pak\Desktop\DSA(Online)\Template\Template\Source.cpp(25,9): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\pak\Desktop\DSA(Online)\Template\Template\Source.cpp(29,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pak\Desktop\DSA(Online)\Template\Template\Source.cpp(30,14): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Template.vcxproj -> C:\Users\pak\Desktop\DSA(Online)\Template\x64\Debug\Template.exe
